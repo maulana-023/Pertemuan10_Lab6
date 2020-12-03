@@ -12,7 +12,9 @@ Kelas   : TI.20. A.1 <br>
 
    ![Picture - New](pict/TP.png)
 
-   ## saya akan mencoba untuk menjabarkan fungsi dari tiap-tiap syntax beserta hasil outputnya:
+   # saya akan mencoba untuk menjabarkan fungsi dari tiap-tiap syntax beserta hasil outputnya:
+
+
 
 ### syntax dibawah berfungsi untuk melihat data :
 
@@ -33,7 +35,8 @@ Kelas   : TI.20. A.1 <br>
 ```
 
 > jika syntax diatas dirun yang nantinya berfungsi sepeti dibawah ini, masukan 
-"L" untuk Melihat Data
+"L" untuk Melihat Data.
+
 ![Picture - New](pict/L.png)
 
 ### syntax dibawah berfungsi untuk menambahkan data :
@@ -51,7 +54,8 @@ Kelas   : TI.20. A.1 <br>
 ```
 
 > jika syntax diatas dirun yang nantinya berfungsi sepeti dibawah ini, masukan 
-"T" untuk Menambah Data
+"T" untuk Menambah Data.
+
 ![Picture - New](pict/T.png)
 
 ### syntax dibawah berfungsi untuk mengubah data :
@@ -72,7 +76,8 @@ Kelas   : TI.20. A.1 <br>
 ```
 
 > jika syntax diatas dirun yang nantinya berfungsi sepeti dibawah ini, masukan 
-"U" untuk Mengubah Data
+"U" untuk Mengubah Data.
+
 ![Picture - New](pict/U.png)
 
 ### syntax dibawah berfungsi untuk menghapus data :
@@ -89,7 +94,8 @@ Kelas   : TI.20. A.1 <br>
 ```
 
 > jika syntax diatas dirun yang nantinya berfungsi sepeti dibawah ini, masukan 
-"H" untuk Menghapus Data
+"H" untuk Menghapus Data.
+
 ![Picture - New](pict/H.png)
 
 
