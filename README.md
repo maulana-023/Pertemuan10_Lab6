@@ -12,7 +12,7 @@ Kelas   : TI.20. A.1 <br>
 
    ![Picture - New](pict/TP.png)
 
-   # saya akan mencoba untuk menjabarkan fungsi dari tiap-tiap syntax beserta hasil outputnya:
+   ### saya akan mencoba untuk menjabarkan fungsi dari tiap-tiap syntax beserta hasil outputnya:
 
 
 
